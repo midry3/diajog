@@ -3,7 +3,7 @@
 
 # インストール方法
 ```sh
-$ go install github.com/midry3/diajog/cmd/dj
+$ go install github.com/midry3/diajog/cmd/dj@latest
 ```
 
 # 使い方

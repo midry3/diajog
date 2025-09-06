@@ -6,7 +6,7 @@ This is a CLI tool for one line diary. You can record your daily with simple com
 
 # How to install
 ```sh
-$ go install github.com/midry3/diajog/cmd/dj
+$ go install github.com/midry3/diajog/cmd/dj@latest
 ```
 
 # Usage
